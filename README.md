@@ -24,8 +24,8 @@
 ## ➡️ About Me
 
 - 👋 Hi, I'm Rian! I'm a full-stack/AI developer.
-- 🎓 CS @ Western Governors University
-- 🎯 I love building AI tools that enhance everyday life!
+- ✈️ I travel for hackathons and eat pho
+- 🎯 I love building AI workflows that enhance everyday life!
 
 ## ✅ Languages and Frameworks
 
