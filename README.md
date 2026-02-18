@@ -1,21 +1,12 @@
-# Hi there, I'm Alayna 👋
+# Hi, I'm Alayna 👋
 
 ### *Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton*
-
-
-<div align="center">
-  
-  ![](https://github.com/alaynav/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/alaynav/stats/blob/master/generated/languages.svg)
-  
-</div>
-
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
 
 - 💻 Career: Aspiring AI/ML Data Scientist
 - 🧘‍♀️ Hobbies: Fitness, Nutrition, Reading, & Nature
-- 🎯 Motivation: Analyze, Build, Improve, Repeat!
+- 🎯 Motivation: Analyze, Build, Reflect, Repeat!
 
 ## ✅ Languages and Frameworks
 
