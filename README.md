@@ -1,5 +1,7 @@
 # Hi there, I'm Alayna 👋
-## *Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton*
+
+### *Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton*
+
 
 <div align="center">
   
