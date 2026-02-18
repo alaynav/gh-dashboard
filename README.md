@@ -1,14 +1,12 @@
-# Hi there, I'm Alayna 👋
-## Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton
+<h1 style="margin-bottom:0;">Hi there, I'm Alayna 👋</h1>
+<p style="margin-top:6px; margin-bottom:18px;"><em>Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton</em></p>
 
 <div align="center">
-  
   ![](https://github.com/alaynav/stats/blob/master/generated/overview.svg)
   ![](https://github.com/alaynav/stats/blob/master/generated/languages.svg)
-  
 </div>
 
-## ➡️ About Me
+<h2 style="margin-top:0;">➡️ About Me</h2>
 
 - 👋 Aspiring AI/ML Data Scientist
 - 🧘‍♀️ Hobbies: Fitness, Nutrition, Reading, & Nature
