@@ -2,8 +2,8 @@
 ## Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton
 
 <div align="center">
-  <img src="https://github.com/coderkai03/stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/coderkai03/stats/blob/master/generated/languages.svg" />
+  <img src="https://github.com/alaynav/stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/alaynav/stats/blob/master/generated/languages.svg" />
 </div>
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
