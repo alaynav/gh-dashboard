@@ -1,5 +1,5 @@
-# Hi there, I'm Rian 👋
-## 2x SWE Intern @ Microsoft | 7x Hackathon Winner | 20K+ Content Creator | CS @ Western Governors University
+# Hi there, I'm Alayna 👋
+## Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton
 
 <div align="center">
   
@@ -10,9 +10,9 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Rian! I'm a full-stack/AI developer.
-- ✈️ I travel for hackathons and eat pho
-- 🎯 I love building AI workflows that enhance everyday life!
+- 👋 Aspiring AI/ML Data Scientist
+- 🧘‍♀️ Hobbies: Fitness, Nutrition, Reading, & Nature
+- 🎯 Creating workflows that optimize everyday life!
 
 ## ✅ Languages and Frameworks
 
@@ -89,12 +89,6 @@
   </tr>
 </table>
 
-## 🤝 Connect with me!!
+## 🤝 Let's Connect!
 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riancorcino)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian.corcino)
-
-## 🧋 Favorite boba
-
-it's brown sugar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaynaveeck/)
