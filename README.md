@@ -3,8 +3,8 @@
 
 <div align="center">
   
-  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+  ![](https://github.com/alaynav/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/alaynav/stats/blob/master/generated/languages.svg)
   
 </div>
 
