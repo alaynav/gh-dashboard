@@ -1,10 +1,11 @@
-<div style="font-size:32px; font-weight:700; margin:0 0 6px 0;">Hi there, I'm Alayna 👋</div>
+<h1>Hi there, I'm Alayna 👋</h1>
 ## Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton
 
 <div align="center">
-  <img src="https://github.com/alaynav/stats/blob/master/generated/overview.svg" />
-  <img src="https://github.com/alaynav/stats/blob/master/generated/languages.svg" />
+  <img src="https://raw.githubusercontent.com/alaynav/stats/master/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/alaynav/stats/master/generated/languages.svg" alt="Top Lanugages" />
 </div>
+
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
 
