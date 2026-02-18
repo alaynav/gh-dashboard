@@ -1,4 +1,4 @@
-# Hi, I'm Alayna 👋
+# Hi, I'm Alayna! 👋
 
 ## *Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton*
 
