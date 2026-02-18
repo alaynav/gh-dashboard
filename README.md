@@ -1,13 +1,12 @@
 # Hi there, I'm Alayna 👋
-## Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton
+## *Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton*
 
 <div align="center">
   
-  ![GitHub Stats](https://github.com/alaynav/stats/blob/master/generated/overview.svg)
-  ![Top Languages](https://github.com/alaynav/stats/blob/master/generated/languages.svg)
+  ![GitHub Stats](https://raw.githubusercontent.com/alaynav/stats/master/generated/overview.svg)
+  ![Top Languages](https://raw.githubusercontent.com/alaynav/stats/master/generated/languages.svg)
   
 </div>
-
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
 
