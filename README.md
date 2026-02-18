@@ -10,9 +10,9 @@
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
 
-- 👋 Aspiring AI/ML Data Scientist
+- 💻 Career: Aspiring AI/ML Data Scientist
 - 🧘‍♀️ Hobbies: Fitness, Nutrition, Reading, & Nature
-- 🎯 Creating workflows that optimize everyday life!
+- 🎯 Motivation: Analyze, Build, Improve, Repeat!
 
 ## ✅ Languages and Frameworks
 
