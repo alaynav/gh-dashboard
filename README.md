@@ -1,11 +1,19 @@
-<h1>Hi there, I'm Alayna 👋</h1>
-<h2><em>Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton</em></h2>
+<div style="font-size:32px; font-weight:700; margin:0; padding:0;">
+  Hi there, I'm Alayna 👋
+</div>
+
+<div style="font-size:20px; margin-top:6px;">
+  <em>Stats @ IUB | Prior Quant Intern | 3x National Scholar | GWI @ Wharton</em>
+</div>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alaynav/stats/master/generated/overview.svg" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/alaynav/stats/master/generated/languages.svg" alt="Top Languages" />
-</p>
+
+<div align="center">
+  
+  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+  
+</div>
 
 
 <h2 style="margin-top:0;">➡️ About Me</h2>
